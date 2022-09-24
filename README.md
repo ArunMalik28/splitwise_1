@@ -9,3 +9,5 @@ Algorithm-
 3. Find the minimum of maxDebit and maxCredit. Let minimum of two be x. Debit ‘x’ from Pd and credit this amount to Pc
 4. If x is equal to maxCredit, then remove Pc from set of persons and recur for remaining (n-1) persons.
 5. If x is equal to maxDebit, then remove Pd from set of persons and recur for remaining (n-1) persons.
+
+![Screenshot from 2022-09-24 11-26-58](https://user-images.githubusercontent.com/42449449/192082957-954ebf25-20ec-41c3-835c-c88cf6667836.png)
